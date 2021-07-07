@@ -1,2 +1,3 @@
 # slides.guangda.me
-Slides
+
+Some slides from [guangda.me](https://guangda.me).
