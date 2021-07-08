@@ -76,9 +76,18 @@ h2 {
 }
 
 main {
+  margin: auto;
+  max-width: 600px;
   min-height: 100%;
   overflow-wrap: break-word;
-  max-width: 600px;
-  margin: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
   padding-top: 4rem;
+}
+
+@media (max-width: 480px) {
+  main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
